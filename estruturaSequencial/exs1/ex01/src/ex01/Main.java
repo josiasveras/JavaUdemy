@@ -19,7 +19,7 @@ public class Main {
 		soma = a + b;
 		
 		//SAÍDA
-		System.out.println("SOMA = " + soma);
+		System.out.print("SOMA = " + soma);
 		
 		sc.close();
 
